@@ -39,19 +39,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -60,7 +48,6 @@
 ## About The Project
 
 The Road Sign Recognition project aims to develop a machine learning neural network model capable of accurately recognizing road signs from images captured by cameras mounted on vehicles or traffic surveillance systems. The model learns to classify different types of road signs, providing crucial information for driving assistance systems, autonomous vehicles, and traffic management applications.
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,8 +64,6 @@ The Road Sign Recognition project aims to develop a machine learning neural netw
 - [![Anaconda][Anaconda-badge]][Anaconda-url]
 
 </div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,4 +107,3 @@ Project Link: [https://github.com/LukeMacdonald/road-sign-recogniser](https://gi
 [scikit-learn-url]: https://scikit-learn.org/
 [TensorFlow-badge]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
 [TensorFlow-url]: https://www.tensorflow.org/
-
